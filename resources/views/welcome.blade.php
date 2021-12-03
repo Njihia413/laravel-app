@@ -1,1 +1,0 @@
-<h1>Laravel Course For Beginners</h1>
