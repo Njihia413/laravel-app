@@ -20,3 +20,5 @@ use App\Http\Controllers\PagesController; //Register pages controller
 */
 
 Route::get('/', [PagesController::class, 'index']);
+
+Route::get('/about', [PagesController::class, 'about']);
